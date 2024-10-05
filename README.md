@@ -1,1 +1,0 @@
-# Termux-gnome-ubuntu
